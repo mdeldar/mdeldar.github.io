@@ -1,7 +1,7 @@
 body{
 	background: orange;
 	color:white;
-	font-family: Georgia, serif;
+	font-family: Florence, cursive;
 	margin-bottom : 50px;
 	margin-left : 50px;
 	margin-right : 50px;
@@ -12,12 +12,16 @@ body{
     padding-left: 10px;
     padding-right : 10px;
 }
-a:active{
-	background-color : green;
+a:link{
+    text-decoration: none;
+    cursor:pointer;
 }
 
 a:hover{
-	background : blue;
+	color :aqua;
+}
+a:visited{
+    color:blueviolet;
 }
 .update{
 	color : blue;
@@ -30,4 +34,21 @@ a:hover{
 .unlink{
     text-decoration: line-through;
     font-size : 18px;
+}
+table.teaching{
+    border-collapse:separate;
+    border-spacing: 30px;
+    border-width:thick;
+    border-style:dashed;
+    caption-side: top;
+}
+table.course{
+    border-collapse:collapse
+    border-width:thick;
+    border-style:groove;
+    caption-side: top;
+}
+
+.menu{
+    font-size:18px;
 }

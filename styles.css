@@ -64,9 +64,16 @@ table.course{
         background: azure;
         color : black;
         font-size : 22px;
+        font-family: monospace;
     }
     .menu{
         font-size : 24px;
+    }
+    table.teaching{
+        font-size : 27;
+    }
+    table.course{
+        font-size : 27;
     }
 }
 

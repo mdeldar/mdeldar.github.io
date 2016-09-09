@@ -43,7 +43,7 @@ table.teaching{
     caption-side: top;
 }
 table.course{
-    border-collapse:collapse
+    border-collapse:collapse;
     border-width:thick;
     border-style:groove;
     caption-side: top;
@@ -97,20 +97,20 @@ footer{
         font-size : 25px;
         background:orange;
     }
-    table.teaching{
-        font-size : 42px;
-    }
-    table.course{
-        font-size : 42px;
-    }
     footer{
-        color :blueviolet;
+        display: none;
     }
     .spacer{
         display : none;
     }
     .page_change{
         text-align: left;
+    }
+    .size{
+        font-size : 32;
+    }
+    .unlink{
+        font-size :32;
     }
 }
 
@@ -132,16 +132,16 @@ footer{
         font-size : 25px;
         background:orange;
     }
-    table.teaching{
-        font-size : 27;
-    }
-    table.course{
-        font-size : 27;
-    }
     footer{
-        color :blueviolet;
+        display:none;
     }
     .spacer{
         display:none;
+    }
+      .size{
+        font-size : 32;
+    }
+    .unlink{
+        font-size :32;
     }
 }

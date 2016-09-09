@@ -82,11 +82,11 @@ footer{
     body{
         background: azure;
         color : black;
-        font-size : 22px;
+        font-size : 40px;
         font-family: monospace;
     }
     .menu{
-        font-size : 24px;
+        font-size : 42px;
         display: none;
     }
     table.menu_right{
@@ -98,10 +98,10 @@ footer{
         background:orange;
     }
     table.teaching{
-        font-size : 27;
+        font-size : 42px;
     }
     table.course{
-        font-size : 27;
+        font-size : 42px;
     }
     footer{
         color :blueviolet;

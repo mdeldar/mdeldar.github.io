@@ -64,11 +64,14 @@ table.menu_right{
 footer{
     color : purple;
     position: fixed;     
-       text-align: right;    
-       bottom: 0px; 
+    text-align: right;    
+    bottom: 0px; 
 }
 
 
+.page_change{
+    text-align: center;
+}
 
 
 
@@ -87,7 +90,8 @@ footer{
         display: none;
     }
     table.menu_right{
-        margin-top: 40px;
+        margin-top: 100px;
+        margin-right:10px;
         display : block;
         float : right;
         font-size : 25px;
@@ -104,6 +108,9 @@ footer{
     }
     .spacer{
         display : none;
+    }
+    .page_change{
+        text-align: left;
     }
 }
 

@@ -87,6 +87,7 @@ footer{
         display: none;
     }
     table.menu_right{
+        margin-top: 40px;
         display : block;
         float : right;
         font-size : 25px;

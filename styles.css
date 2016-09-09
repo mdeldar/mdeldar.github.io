@@ -53,13 +53,21 @@ table.course{
     font-size:18px;
     background : white;
 }
-
+table.menu_right{
+    display : none;
+    border-collapse:separate;
+    border-spacing: 20px;
+    border-width:thick;
+    border-style:solid;
+    caption-side: top;
+}
 footer{
     color : purple;
     position: fixed;     
        text-align: right;    
        bottom: 0px; 
 }
+
 
 
 
@@ -76,7 +84,13 @@ footer{
     }
     .menu{
         font-size : 24px;
-        background:green;
+        display: none;
+    }
+    table.menu_right{
+        display : block;
+        float : right;
+        font-size : 25px;
+        background:orange;
     }
     table.teaching{
         font-size : 27;
@@ -86,7 +100,9 @@ footer{
     }
     footer{
         color :blueviolet;
-        background:green;
+    }
+    .spacer{
+        display : none;
     }
 }
 
@@ -95,9 +111,29 @@ footer{
     body{
         background:darkcyan;
         font-size : 20px;
+        font-family: monospace;
         
     }
     .menu{
         font-size : 22px;
+        display: none;
+    }
+      table.menu_right{
+        display : block;
+        float : right;
+        font-size : 25px;
+        background:orange;
+    }
+    table.teaching{
+        font-size : 27;
+    }
+    table.course{
+        font-size : 27;
+    }
+    footer{
+        color :blueviolet;
+    }
+    .spacer{
+        display:none;
     }
 }

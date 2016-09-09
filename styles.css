@@ -51,6 +51,14 @@ table.course{
 
 .menu{
     font-size:18px;
+    background : white;
+}
+
+footer{
+    color : purple;
+    position: fixed;     
+       text-align: right;    
+       bottom: 0px; 
 }
 
 
@@ -68,12 +76,17 @@ table.course{
     }
     .menu{
         font-size : 24px;
+        background:green;
     }
     table.teaching{
         font-size : 27;
     }
     table.course{
         font-size : 27;
+    }
+    footer{
+        color :blueviolet;
+        background:green;
     }
 }
 

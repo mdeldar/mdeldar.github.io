@@ -39,19 +39,25 @@ table.teaching{
     border-collapse:separate;
     border-spacing: 30px;
     border-width:thick;
-    border-style:dashed;
+    border-style:solid;
     caption-side: top;
+    border-color: aquamarine;
+    border-radius: 23px;
 }
 table.course{
-    border-collapse:collapse;
+    border-collapse:separate;
     border-width:thick;
-    border-style:groove;
+    border-style:solid;
     caption-side: top;
+    border-color : aquamarine;
+    border-radius: 23px;
+    
 }
 
 .menu{
     font-size:18px;
     background : white;
+    border-radius: 23px;
 }
 table.menu_right{
     display : none;
@@ -60,6 +66,11 @@ table.menu_right{
     border-width:thick;
     border-style:solid;
     caption-side: top;
+    border-radius: 23px;
+}
+menu_right_font{
+    font-size :50px;
+    
 }
 footer{
     color : purple;
@@ -79,6 +90,7 @@ footer{
 
 /* tablet */
 @media all and (max-width: 1024px) {
+
     body{
         background: azure;
         color : black;

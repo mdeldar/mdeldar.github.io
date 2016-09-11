@@ -87,7 +87,6 @@ footer{
 
 
 
-
 /* tablet */
 @media all and (max-width: 1024px) {
 
@@ -119,10 +118,10 @@ footer{
         text-align: left;
     }
     .size{
-        font-size : 32;
+        font-size : 26;
     }
     .unlink{
-        font-size :32;
+        font-size :26;
     }
 }
 
@@ -151,9 +150,9 @@ footer{
         display:none;
     }
       .size{
-        font-size : 32;
+        font-size : 26;
     }
     .unlink{
-        font-size :32;
+        font-size :26;
     }
 }

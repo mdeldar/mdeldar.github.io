@@ -84,6 +84,9 @@ footer{
     text-align: center;
 }
 
+p{
+    font-size:19px;
+}
 
 
 
@@ -123,6 +126,9 @@ footer{
     .unlink{
         font-size :26;
     }
+    p{
+        font-size:22px;
+    }
 }
 
 /* mobile phone */
@@ -154,5 +160,8 @@ footer{
     }
     .unlink{
         font-size :26;
+    }
+    p{
+        font-size:22px;
     }
 }

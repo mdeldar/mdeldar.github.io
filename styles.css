@@ -138,6 +138,9 @@ p{
     p{
         font-size:22px;
     }
+    .counter{
+        display:none;
+    }
 }
 
 /* mobile phone */

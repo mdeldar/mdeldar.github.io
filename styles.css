@@ -98,7 +98,9 @@ p{
     font-size:19px;
 }
 
-
+img{
+    margin-left:8px;
+}
 
 /* tablet */
 @media all and (max-width: 1024px) {

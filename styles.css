@@ -1,4 +1,5 @@
- body{
+
+body{
 	background: orange;
 	color:white;
 	font-family: Florence, cursive;
@@ -12,13 +13,21 @@
     padding-left: 10px;
     padding-right : 10px;
 }
+
 a:link{
     text-decoration: none;
     cursor:pointer;
+    
+}
+a{
+    opacity:1;
+    transition:opacity 2s;
+    
 }
 
 a:hover{
 	color :aqua;
+    opacity:0.2;
 }
 a:visited{
     color:blueviolet;
@@ -100,6 +109,17 @@ p{
 
 img{
     margin-left:8px;
+    
+    
+}
+.contact_me:hover{
+    animation-name:anim2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.title_anim{
+    animation-name:anim;
+    animation-duration: 5s;
 }
 
 /* tablet */
@@ -143,6 +163,7 @@ img{
     .counter{
         display:none;
     }
+
 }
 
 /* mobile phone */
@@ -176,4 +197,19 @@ img{
     p{
         font-size:22px;
     }
+}
+@keyframes anim{
+    0%{text-align: left;}
+    25%{transform:translatex(100px);}
+    50%{transform:translatey(200px);}
+    75%{transform:translatex(100px);}
+    100%{text-align:center;}
+} 
+@keyframes anim2{
+    0%{transform:scale(2,2);}
+    25%{transform:rotate(90deg);}
+    50%{transform:rotate(180deg);}
+    75%{transform:rotate(270deg);}
+    100%{transform:rotate(360deg);}
+    
 }

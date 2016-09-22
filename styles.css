@@ -117,9 +117,19 @@ img{
     animation-duration: 3s;
     animation-iteration-count: infinite;
 }
-.title_anim{
-    animation-name:anim;
-    animation-duration: 5s;
+#profile_image{
+    animation-name: anim;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+    border:2px solid green;
+}
+
+img:hover{
+    transform: rotate(4deg);
+}
+hr{
+    border: 6px groove green;
+    border-radius: 23px;
 }
 
 /* tablet */
@@ -199,11 +209,12 @@ img{
     }
 }
 @keyframes anim{
-    0%{text-align: left;}
-    25%{transform:translatex(100px);}
-    50%{transform:translatey(200px);}
-    75%{transform:translatex(100px);}
-    100%{text-align:center;}
+    0%{transform:scale(2,2);}
+    25%{transform:rotate(3deg);}
+    50%{transform:rotate(-3deg);}
+    75%{transform:rotate(5deg);}
+    100%{transform:rotate(-5deg);}
+
 } 
 @keyframes anim2{
     0%{transform:scale(2,2);}

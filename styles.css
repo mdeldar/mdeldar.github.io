@@ -132,6 +132,21 @@ hr{
     border-radius: 23px;
 }
 
+button{
+    background: chocolate;
+    height: 100px;
+    width: 100px;
+    border-radius: 23px;
+    font-family: Florence, cursive;
+    font-size:20px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+#slidebar{
+    border:7px solid green;
+}
+
 /* tablet */
 @media all and (max-width: 1024px) {
 

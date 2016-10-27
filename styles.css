@@ -109,10 +109,11 @@ p{
 
 img{
     margin-left:8px;
-    
+    border-radius:40px;
     
 }
 .contact_me:hover{
+    border-radius: 40px;
     animation-name:anim2;
     animation-duration: 3s;
     animation-iteration-count: infinite;
@@ -124,9 +125,7 @@ img{
     border:2px solid green;
 }
 
-img:hover{
-    transform: rotate(4deg);
-}
+
 hr{
     border: 6px groove green;
     border-radius: 23px;

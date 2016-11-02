@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.mdeldar.ir/</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/index.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/resume.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/research.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/teaching.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/gallery.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/project.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/logic.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/fpga.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/elec1.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/pulse.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/computerarch.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/micro.html</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Logic/HW.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/FPGA/Summary.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Electronic_1/HW.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Electronic_1/Manual.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Electronic_1/Lab-Manual.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Electronic_1//PS.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Electronic_1//OrCad_guide.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Pulse/TP1.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Computer_Arch/VHDL.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Computer_Arch/pre-exam.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Micro/Assembly.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Micro/8086.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.mdeldar.ir/files/Micro/Questions.pdf</loc>
+  <lastmod>2016-10-27T03:06:56+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>

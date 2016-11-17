@@ -121,7 +121,7 @@ img{
 #profile_image{
     animation-name: anim;
     animation-duration: 3s;
-    animation-iteration-count: 1;
+    animation-iteration-count: 0;
     border:2px solid green;
 }
 
@@ -223,15 +223,15 @@ button{
     }
 }
 @keyframes anim{
-    0%{transform:scale(2,2);}
-    25%{transform:rotate(3deg);}
-    50%{transform:rotate(-3deg);}
-    75%{transform:rotate(5deg);}
-    100%{transform:rotate(-5deg);}
+    0%{transform:scale(1,1);}
+    25%{transform:rotate(90deg);}
+    50%{transform:rotate(180deg);}
+    75%{transform:rotate(270deg);}
+    100%{transform:rotate(360deg);}
 
 } 
 @keyframes anim2{
-    0%{transform:scale(2,2);}
+    0%{transform:scale(1,1);}
     25%{transform:rotate(90deg);}
     50%{transform:rotate(180deg);}
     75%{transform:rotate(270deg);}

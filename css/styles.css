@@ -2,7 +2,6 @@
     font-family: "baloo";
     src: url("../fonts/Baloo.ttf");
 }
-
 .fa-arrow-left:hover{
     cursor: pointer;
 }
@@ -12,9 +11,11 @@
 
 .fa-arrow-right{
     margin-top:15px;
+    font-size: 30px;
 }
 .fa-arrow-left{
     margin-bottom: 15px;
+    font-size: 30px;
 }
 body{
 	background: orange;
@@ -116,7 +117,6 @@ table.teaching{
     border-radius: 23px;
 }
 table.course{
-    border-collapse:separate;
     border-width:thick;
     border-style:solid;
     caption-side: top;
@@ -213,7 +213,8 @@ button{
 @media all and (max-width: 1024px) {
     #slidebar{
         margin: auto;
-        width: 95%;
+        width: 90%;
+        height: 40%;
     }
     table{
         width: 98%;
@@ -285,7 +286,7 @@ button{
         display: block;
     }
     .contact_me{
-        width: 30%;
+        width: 25%;
         height: 10%;
         margin-bottom: 15px;
     }
@@ -343,6 +344,13 @@ button{
     }
     .site_title{
     width: 98%;
+}
+    
+    .fa-arrow-right{
+    font-size: 37px;
+}
+.fa-arrow-left{
+    font-size: 37px;
 }
 }
 @keyframes anim{

@@ -11,8 +11,8 @@ particlesJS.load('particles-js', 'particles.json', function() {
 
 /* Otherwise just put the config content (json): */
 var IC_random,file_adr;
-IC_random=Math.floor((Math.random()*3)+1);
-file_adr="files/IC"+IC_random.toString()+".png";
+IC_random=Math.floor((Math.random()*5)+1);
+file_adr="files/P"+IC_random.toString()+".png";
 particlesJS('particles-js',
   
   {

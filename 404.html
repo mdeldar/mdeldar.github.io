@@ -1,25 +1,75 @@
 <html>
-<head>
-	<title> Page not found</title>
-    <link href="404styles.css"/>
-</head>
+	<head>
+		<title>Page not found</title>
+        <meta property="og:title" content=" Masoud Deldar's Homepage" />
+        <meta property="og:site_name" content="http://www.mdeldar.ir" />
+        <meta property="og:description" content="Masoud deldar homepage a senior lecturer in electronic engineering research interest : FPGA System Design , Microelectronic , ..." />
+        <meta property="og:image" content="http://www.mdeldar.ir/files/og-icon.png" />
+        <meta name="description" content="Masoud deldar homepage a senior lecturer in electronic engineering research interest : FPGA System Design , Microelectronic , ...">
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <style type="text/css">
+            @font-face {
+            font-family: "baloo";
+            src: url("http://www.mdeldar.ir/fonts/Baloo.ttf");
+            }
+        body{
+            font-family: "baloo";
+        }
+        .return p{
+            font-size: 40px;
+            font-weight: 600;
+        }
+        .return a{
+            font-size: 30px;
+            text-decoration: none;
+            border: 4px solid red;
+            color: red;
+            padding: 4px;
+            cursor: pointer;
+            transition: 0.3s;
+            margin: auto;
+        }
+        
+        .return a:hover{
+            opacity: 0.4;
+        }
+        .Error-page{
+            
+            text-align:center;
+            margin: auto;
+            margin-top:20px;
+        }
+        img{
+            width: 600px;
+            height: 400px;
+            opacity: 0.7;
+        }
 
-<body>
-    <div style="margin-top:200px;text-align:center;">
+        @media all and (max-width: 1024px) {
+            img{
+                width: 94%;
+                height: 35%;
+            }
+            
+            
+        }
+    </style>
+		
+</head>
+     
+	<body>
+        <div class="Error-page" >
+		<img src="http://www.mdeldar.ir/files/404_error.png"/ alt="404 logo">
+        <br/>
+        <div class="return">
+            <p style="font-size:30px; text-decoration:None;">Page Not Found</p>
+            <a href="http://www.mdeldar.ir">Back</a>
+         </div>   
+        </div>
+
+         
+	</body>
     
-    <p style="font-size:26px">Masoud Deldar Homepage</p>
-    <br/>
-    </div>
-    <div style="margin-top:50px;text-align:center;">
-    <img src="http://www.mdeldar.ir/files/404_error.png"/>
-    <br/>
-    </div>
-    <div style="margin-top:80px;text-align:center;">
-    
-    <a style="font-size:26px;background:orange;border:2px solid;border-radius:23px;text-decoration:None;padding:5px;" href="http://www.mdeldar.ir">Home</a>
-        
-        
-    </div>
-</body>
 
 </html>

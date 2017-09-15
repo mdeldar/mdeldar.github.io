@@ -18,7 +18,7 @@
     font-size: 30px;
 }
 body{
-	background: orange;
+	background-color: orange;
 	color:white;
 	font-family: "baloo";
     margin: 0px;
@@ -138,20 +138,6 @@ table.course{
     border-radius: 23px;
     box-shadow: 1px 1px white;
 }
-table.menu_right{
-    display : none;
-    border-collapse:separate;
-    border-spacing: 20px;
-    border-width:thick;
-    border-style:solid;
-    caption-side: top;
-    border-radius: 23px;
-    background:linear-gradient(orange,white);
-}
-menu_right_font{
-    font-size :50px;
-    
-}
 footer{
     color : purple;
     position: fixed;     
@@ -192,16 +178,7 @@ hr{
     border-radius: 23px;
 }
 
-button{
-    background: chocolate;
-    height: 100px;
-    width: 200px;
-    border-radius: 23px;
-    font-family: Florence, cursive;
-    font-size:20px;
-    margin-top: 7px;
-    margin-bottom: 7px;
-}
+
 
 #slidebar{
     border:7px solid green;
@@ -257,7 +234,7 @@ button{
 }
 
     body{
-        background: azure;
+        background-color: azure;
         color : black;
         font-size : 40px;
     }

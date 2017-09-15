@@ -15,6 +15,7 @@
             }
         body{
             font-family: "baloo";
+            background-color: orange;
         }
         .return p{
             font-size: 40px;
@@ -43,12 +44,31 @@
         img{
             width: 600px;
             height: 400px;
+            opacity: 1;
         }
+            #particles-js{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    background-image: url('');
+    background-size: cover; 
+    background-repeat: no-repeat;
+  }
+.siteWrapper {
+    position: fixed;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+}
 
         @media all and (max-width: 1024px) {
             img{
                 width: 94%;
                 height: 35%;
+            }
+            .siteWrapper{
+                background-color: orange;
             }
             
             
@@ -58,16 +78,19 @@
 </head>
      
 	<body>
+        <div id="particles-js">
+          <div class="siteWrapper">
         <div class="Error-page" >
 		<img src="http://www.mdeldar.ir/files/404_error.png"/ alt="404 logo">
         <br/>
         <div class="return">
-            <p style="font-size:30px; text-decoration:None;">Page Not Found</p>
             <a href="http://www.mdeldar.ir">Back</a>
          </div>   
         </div>
-
-         
+            </div>
+        </div>
+      <script src="http://www.mdeldar.ir/js/particles.js"></script>
+      <script src="http://www.mdeldar.ir/js/app.js"></script>
 	</body>
     
 
